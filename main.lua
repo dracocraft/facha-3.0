@@ -7,3 +7,4 @@ if game.PlaceId == 4581966615 then -- anomic
         end
     end   
 end
+
